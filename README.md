@@ -30,7 +30,8 @@ Once you've entered input for all the prompts, the application will generate an 
 You can now open the logo.svg file in a web browser to view your generated logo. The browser should display a 300x200 pixel image that matches the text, shape, and colors you specified.
 
 ## Download
-You can download the SVG Logo Maker from the following link: [SVG Logo Maker](https://github.com/OpalSnellneberger/SVG-Logo-maker)
+You can download the SVG Logo Maker from the following link:
+[SVG Logo Maker](https://github.com/OpalSnellneberger/SVG-Logo-maker)
 
 ## Example
 An example SVG file generated using the SVG Logo Maker:
